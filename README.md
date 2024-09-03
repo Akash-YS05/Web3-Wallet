@@ -1,6 +1,6 @@
 <h1>Ethereum-Solana Wallet - <a href="https://web3-wallet-swart.vercel.app/">Check It Out</a> </h1>
 
-<h3>A simple project to create web3 wallets</h3>
+<h3>A simple project to create Ethereum and Solana wallets</h3>
 
 <h3>Features:</h3>
 <ul>
