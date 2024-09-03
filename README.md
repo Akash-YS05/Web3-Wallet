@@ -6,6 +6,7 @@
 <ul>
   <li>Generate Seed Phrase: Creates a seed phrase derived from a mnemonic.</li>
   <li>Generate Wallet: Create Ethereum or Solana wallet with their particular private keys.</li>
+  <li>Check Balance: Find out the current balance in the created Eth and Sol wallets.</li>
 </ul>
 
 <h2>More features to come.</h2>
